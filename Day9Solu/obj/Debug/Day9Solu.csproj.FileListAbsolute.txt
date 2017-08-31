@@ -1,0 +1,6 @@
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\bin\Debug\Day9Solu.exe.config
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\bin\Debug\Day9Solu.exe
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\bin\Debug\Day9Solu.pdb
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\obj\Debug\Day9Solu.csproj.CoreCompileInputs.cache
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\obj\Debug\Day9Solu.exe
+C:\Users\Anubis\VsPj\FundationPj_Practice\Day9_ForSolu\Day9Solu\obj\Debug\Day9Solu.pdb
