@@ -49,7 +49,7 @@ namespace Day9Solu.Solu_Classes
 
             Console.WriteLine("\n What is average Order Qty...");
             var a5 = ol.SelectMany(p => p.OrderItems.Select(k => k.Qty)).Average();
-            Console.WriteLine("52 -- Qty average is: {0}", Math.Round(a4, 1));
+            Console.WriteLine("52 -- Qty average is: {0}", Math.Round(a5, 1));
 
             Console.WriteLine("\n How many Orders has multiple Items?");
             var a6 = ol.Count(p => p.OrderItems.Any(r => r.Qty > 1));

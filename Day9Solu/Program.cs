@@ -15,6 +15,9 @@ namespace Day9Solu
             MethodSyntax_Way msw = new MethodSyntax_Way();
             msw.DisplayMethodSytaxWay();
 
+            Console.WriteLine("\n Now Show Linq Query Way...\n");
+            LinqQuery_Way lqw = new LinqQuery_Way();
+            lqw.DisplayLinqQueryWay();
 
             Console.ReadLine();
         }
